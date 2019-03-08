@@ -1,0 +1,9 @@
+# Octave
+**/octave-workspace
+
+# Python
+**/*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
